@@ -46,7 +46,7 @@
         {
             "altText": "Facebook link",
             "url": "https://www.facebook.com/profile.php?id=100009923012523",
-            "icon": "linkedin",
+            "icon": "facebook",
             "type": "Social"
         }
     ],
