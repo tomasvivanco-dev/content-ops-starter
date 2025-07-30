@@ -19,7 +19,7 @@
             },
             {
                 "label": "Instituto Igualdad",
-                "url": "/pricing",
+                "url": "https://www.institutoigualdad.cl",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
