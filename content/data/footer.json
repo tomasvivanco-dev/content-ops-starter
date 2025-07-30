@@ -11,7 +11,7 @@
             {
                 "label": "PS Chile",
                 "altText": "Web PS Chile",
-                "url": "/",
+                "url": "https://www.pschile.cl",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
