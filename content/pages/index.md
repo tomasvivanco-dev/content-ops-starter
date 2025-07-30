@@ -7,7 +7,7 @@ sections:
       text: Partido Socialista de Chile Comunal Puente Alto
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: "Cuenta oficial del Partido Socialista de Chile Comunal Puente Alto - #AllendeVive ✊\U0001F3FB"
     text: >
       Democráticos, allendistas y de izquierda. Fundado por Salvador Allende,
       Marmaduke Grove, Eugenio Matte y Óscar Schnake.
